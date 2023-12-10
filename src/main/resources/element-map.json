@@ -1,0 +1,15 @@
+{
+  "usernameField": {
+    "type": "id",
+    "value": "username"
+  },
+  "passwordField": {
+    "type": "id",
+    "value": "password"
+  },
+  "loginButton": {
+    "type": "css",
+    "value": "input[value='Login']"
+  }
+}
+
